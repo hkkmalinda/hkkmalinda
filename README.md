@@ -8,7 +8,6 @@ I am a Teacher in a government school in Matara, Sri Lanka. I also having a Yout
 
 
 - 🔭 Check out my Youtube channel :  @malindasir <a href="https://www.youtube.com/c/@malindasir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@malindasir" height="30" width="40" /></a>
-- ⚡ Fun fact: I love to eat Kandos Cashewnut Milk Chocolate
 - 🎓 Learning to become a blockchain developer
 
 
