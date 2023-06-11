@@ -6,9 +6,11 @@
 
 I am a Teacher in a government school in Matara, Sri Lanka. I also having a Youtube channel @malindasir with 10k Subscribers. I am planning to pivot my career to blockchain development and content creation on web3. In my free time I explore new technologies and also I record videos.  
 
+
 - 🔭 Check out my Youtube channel :  @malindasir <a href="https://www.youtube.com/c/@malindasir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@malindasir" height="30" width="40" /></a>
 - ⚡ Fun fact: I love to eat Kandos Cashewnut Milk Chocolate
 - 🎓 Learning to become a blockchain developer
+
 
 
 <p align="left">
@@ -19,6 +21,7 @@ I am a Teacher in a government school in Matara, Sri Lanka. I also having a Yout
    </p>
    
 ------
+
    
 ## 🧰 Languages and Tools
 <p align="left"> 
