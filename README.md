@@ -29,7 +29,12 @@ I am a Teacher in a government school in Matara, Sri Lanka. I also having a Yout
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![How internet works in sinhala by malinda sir - Modern Web Development in sinhala](https://ytcards.demolab.com/?id=bajn0NEpK4o&title=How+internet+works+in+sinhala+by+malinda+sir+-+Modern+Web+Development+in+sinhala&lang=en&timestamp=1686150027&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "How internet works in sinhala by malinda sir - Modern Web Development in sinhala")](https://www.youtube.com/watch?v=bajn0NEpK4o)
+[![Install windows 11 easy method 2023 in sinhala by malinda sir](https://ytcards.demolab.com/?id=hY6O9EOw-Ts&title=Install+windows+11+easy+method+2023+in+sinhala+by+malinda+sir&lang=en&timestamp=1686046594&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Install windows 11 easy method 2023 in sinhala by malinda sir")](https://www.youtube.com/watch?v=hY6O9EOw-Ts)
+[![Modern Web Development in sinhala with malinda sir   web developer](https://ytcards.demolab.com/?id=xTEjEBG2I2k&title=Modern+Web+Development+in+sinhala+with+malinda+sir+++web+developer&lang=en&timestamp=1685626221&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Modern Web Development in sinhala with malinda sir   web developer")](https://www.youtube.com/watch?v=xTEjEBG2I2k)
+[![blockchain development in sinhala - blockchain definition and features by malinda sir](https://ytcards.demolab.com/?id=hJ-tLymJtqE&title=blockchain+development+in+sinhala+-+blockchain+definition+and+features+by+malinda+sir&lang=en&timestamp=1685619013&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "blockchain development in sinhala - blockchain definition and features by malinda sir")](https://www.youtube.com/watch?v=hJ-tLymJtqE)
+[![Modern Web Development in sinhala with malinda sir  - introduction](https://ytcards.demolab.com/?id=H6rbfYKq3ls&title=Modern+Web+Development+in+sinhala+with+malinda+sir++-+introduction&lang=en&timestamp=1685521374&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Modern Web Development in sinhala with malinda sir  - introduction")](https://www.youtube.com/watch?v=H6rbfYKq3ls)
+[![blockchain development in sinhala  - why we need blockchains by malinda sir](https://ytcards.demolab.com/?id=adb1twTzEMQ&title=blockchain+development+in+sinhala++-+why+we+need+blockchains+by+malinda+sir&lang=en&timestamp=1685453400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "blockchain development in sinhala  - why we need blockchains by malinda sir")](https://www.youtube.com/watch?v=adb1twTzEMQ)
 <!-- END YOUTUBE-CARDS -->
 
 
